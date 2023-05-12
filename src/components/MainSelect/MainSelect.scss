@@ -1,0 +1,10 @@
+.main-select {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  &__button {
+    width: 200px;
+    height: 50px;
+  }
+}

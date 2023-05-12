@@ -1,0 +1,8 @@
+.container {
+  width: 1000px;
+  padding: 50px 100px;
+
+  & > *:not(:last-child) {
+    margin-bottom: 10px;
+  }
+}
